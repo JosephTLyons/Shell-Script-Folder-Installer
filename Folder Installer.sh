@@ -1,11 +1,10 @@
 #!/bin/bash
 
 # Make Main Folder
-mkdir /Users/$USER/"The Lyons' Den Media"
+mkdir /Users/$USER/Library/"Application Support"/"The Lyons' Den Labs"
 
 # Make subfolders for products
-mkdir /Users/$USER/"The Lyons' Den Media"/"Product Name Goes Here"
+mkdir /Users/$USER/Library/"Application Support"/"The Lyons' Den Labs"/"Product Name Goes Here"
 
 # Make text document
-echo "This is the manual for x.x product
-enjoy" > /Users/$USER/"The Lyons' Den Media"/"Manual.txt"
+echo "This is the manual for x.x product enjoy" > /Users/$USER/Library/"Application Support"/"The Lyons' Den Labs"/"Manual.txt"
